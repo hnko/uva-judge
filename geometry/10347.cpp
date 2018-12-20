@@ -4,6 +4,7 @@
 
 using namespace std;
 /*
+	Heron's formula
 	4/3 *(sqrt(s*(s-a)*s(s-b)*(s-c))) and s is the semi-perimeter
 */
 int main(){
